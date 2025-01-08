@@ -48,6 +48,8 @@ class Gradify {
     
       console.log(`Gradient icon saved to: ${outputPath}.png`);
     }
+
+    return image;
   }
 
   private static generateRandomColor() {
