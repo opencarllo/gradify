@@ -6,6 +6,7 @@
   "license": "BSD-3-Clause-Clear",
 
   "version": "1.0.0",
+  "private": false,
 
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
