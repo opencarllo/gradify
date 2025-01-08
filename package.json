@@ -1,5 +1,5 @@
 {
-  "name": "gradify",
+  "name": "@opencarllo/gradify",
   "description": "A lightweight library for generating unique icons with vibrant gradients.",
 
   "author": "opencarllo",

@@ -16,7 +16,7 @@
 To install Gradify, ensure you have [Node.js](https://nodejs.org/) installed. Then, use the following command to install the dependencies:
 
 ```bash
-npm install gradify
+npm install @opencarllo/gradify
 ```
 
 ## Usage
@@ -24,13 +24,13 @@ npm install gradify
 You can use Gradify to generate gradient icons directly from the command line. The following command will generate an icon with default dimensions (`512x512`) and save it in the current directory:
 
 ```bash
-npx gradify generate icon
+npx @opencarllo/gradify generate icon
 ```
 
 You can customize the icon's width, height, and target directory like this:
 
 ```bash
-npx gradify generate icon --width 256 --height 256 --target ./icons
+npx @opencarllo/gradify generate icon --width 256 --height 256 --target ./icons
 ```
 
 ## API
@@ -49,7 +49,7 @@ Generates a gradient icon with random colors.
 #### Example
 
 ```typescript
-import Gradify from 'gradify';
+import Gradify from '@opencarllo/gradify';
 
 Gradify.generateIcon({
   width: 256,
