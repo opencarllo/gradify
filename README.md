@@ -2,6 +2,10 @@
 
 **Gradify** is a lightweight library for generating unique icons with vibrant gradients.
 
+<p align="center">
+  <img src="icons/gradient-icon.png" width="256" style="border-radius: 16px">
+</p>
+
 ## Table of Contents
 
 - [Installation](#installation)

@@ -4,6 +4,3 @@ package-lock.json
 
 # Dist folder
 dist
-
-# Result files
-gradient-icon.png
