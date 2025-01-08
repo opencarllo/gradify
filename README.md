@@ -24,13 +24,13 @@ npm install @opencarllo/gradify
 You can use Gradify to generate gradient icons directly from the command line. The following command will generate an icon with default dimensions (`512x512`) and save it in the current directory:
 
 ```bash
-npx @opencarllo/gradify generate icon
+npx gradify generate icon
 ```
 
 You can customize the icon's width, height, and target directory like this:
 
 ```bash
-npx @opencarllo/gradify generate icon --width 256 --height 256 --target ./icons
+npx gradify generate icon --width 256 --height 256 --target ./icons
 ```
 
 ## API
