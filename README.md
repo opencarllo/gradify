@@ -49,7 +49,7 @@ Generates a gradient icon with random colors.
 #### Example
 
 ```typescript
-import Gradify from './core/index';
+import Gradify from 'gradify';
 
 Gradify.generateIcon({
   width: 256,
