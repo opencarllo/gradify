@@ -1,2 +1,9 @@
-.dart_tool
-pubspec.lock
+# Node.js related
+node_modules
+package-lock.json
+
+# Dist folder
+dist
+
+# Result files
+gradient-icon.png

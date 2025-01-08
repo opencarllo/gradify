@@ -1,0 +1,52 @@
+{
+  "name": "gradify",
+  "description": "A lightweight library for generating unique icons with vibrant gradients.",
+
+  "author": "opencarllo",
+  "license": "BSD-3-Clause-Clear",
+
+  "version": "1.0.0",
+
+  "main": "index.js",
+
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "dependencies": {
+    "typescript": "^4.4.3",
+    "yargs": "^17.7.2",
+    "jimp": "^1.6.0"
+  },
+
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "@types/yargs": "^17.0.33",
+    "@types/pngjs": "^6.0.5"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opencarllo/gradify.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/opencarllo/gradify/issues"
+  },
+
+  "homepage": "https://github.com/opencarllo/gradify#readme",
+
+  "keywords": [
+    "design",
+    "generator",
+    "gradients",
+    "graphics",
+    "icons",
+    "placeholder",
+    "random",
+    "svg",
+    "ui",
+    "ux"
+  ]
+}

@@ -1,0 +1,1 @@
+declare module '@jimp/plugin-print/load-font';
