@@ -16,7 +16,7 @@
 To install Gradify, ensure you have [Node.js](https://nodejs.org/) installed. Then, use the following command to install the dependencies:
 
 ```bash
-npm install
+npm install gradify
 ```
 
 ## Usage
